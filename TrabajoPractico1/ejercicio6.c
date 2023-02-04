@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define TOLERANCIA 0.001 //estandarizo la tolerancia 
+#define TOLERANCIA 0.1 //estandarizo la tolerancia 
 
 double abs(double);
 double pow(double, int);
@@ -9,15 +9,15 @@ double fact(double);
 
 int main() 
 {
-    double numeroBuscado, nuevoTermino, respuesta = 0;
+    float numeroBuscado;
+    double nuevoTermino, respuesta = 0;
     int sumaResta = 1, termino = 1; // La sucesion alterna suma y resta, uso esto como booleano.
 
     printf("Ingresar el numero deseado: ");
     scanf("%f", &numeroBuscado);
-
     nuevoTermino = numeroBuscado;
 
-    while (abs(nuevoTermino) > TOLERANCIA)
+    while(abs(nuevoTermino) > TOLERANCIA)
     {
         if(sumaResta == 1)
         {
