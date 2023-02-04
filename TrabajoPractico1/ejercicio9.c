@@ -3,7 +3,7 @@
 
 int main()
 {
-    int dividendo, divisor, cociente;
+    int dividendo, divisor, cociente = 0;
     char esNegativo;
 
     printf("Ingrese el dividendo: ");
@@ -33,7 +33,7 @@ int main()
     dividendo = abs(dividendo);
     divisor = abs(divisor);
 
-    while(dividendo - divisor > 0)
+    while(dividendo - divisor >= 0)
     {
         dividendo -= divisor;
         cociente++;
