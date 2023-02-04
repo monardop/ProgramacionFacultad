@@ -17,7 +17,6 @@ int main()
     printf("Funcion for: 5! = %.f, 10! = %.f \n",
            factorialFor(5), factorialFor(10));
 
-    system("pause");
     return 0;
 }
 
