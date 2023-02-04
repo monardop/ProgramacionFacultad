@@ -34,5 +34,3 @@ float calcularSiguiente(double anterior, int raiz)
 {
     return 1 / (2 * (anterior + (raiz / anterior)));
 }
-
-
