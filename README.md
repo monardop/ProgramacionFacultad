@@ -4,6 +4,8 @@ En este repositorio se encuentra las práctica de la materia programación de la
 
 ## Trabajo Práctico 1
 
+### Manejo de ciclos
+
 - Ejercicio 1: Función de factorizar. Lo probé con for/while y recursión.
 - Ejercicio 2: Combinatoria. Se ingresan dos números, devuelve las posibilidades de combinarlos sin repetir.
 - Ejercicio 3: Aproximar e elevado a x. Usa Taylor para aproximar, según el margen de error aceptado, potencias de e.
@@ -18,7 +20,7 @@ En este repositorio se encuentra las práctica de la materia programación de la
 - Ejercicio 12: Ingreso un número y muestra los pares anteriores a él.
 - Ejercicio 13: Ingreso un número, determina si es primo.
 
-### Modulo fechas (ejercicio 14 a 19)
+### Fechas
 
 - Ejercicio 14: Función que valida fechas
 - Ejercicio 15: Función que da que día es mañana (número)
