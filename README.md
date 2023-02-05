@@ -13,7 +13,7 @@ En este repositorio se encuentra las práctica de la materia programación de la
 - Ejercicio 7: Clasificar en (perfecto, deficiente, abundante).
 - Ejercicio 8: Producto a sumas sucesivas.
 - Ejercicio 9: División manual.
-- Ejercicio 10: Dado un número natural N, calcular la suma de sus precesores.
-- Ejercicio 11: Un programa donde ingrese un número X y muestre X pares.
+- Ejercicio 10: Un programa donde ingrese un número X y muestre X pares.
+- Ejercicio 11: Dado un número natural N, calcular la suma de sus precesores.
 - Ejercicio 12: Ingreso un número y muestra los pares anteriores a él.
 - Ejercicio 13: Ingreso un número, determina si es primo.
