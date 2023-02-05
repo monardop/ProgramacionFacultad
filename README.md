@@ -17,3 +17,12 @@ En este repositorio se encuentra las práctica de la materia programación de la
 - Ejercicio 11: Dado un número natural N, calcular la suma de sus precesores.
 - Ejercicio 12: Ingreso un número y muestra los pares anteriores a él.
 - Ejercicio 13: Ingreso un número, determina si es primo.
+
+### Modulo fechas (ejercicio 14 a 19)
+
+- Ejercicio 14: Función que valida fechas
+- Ejercicio 15: Función que da que día es mañana (número)
+- Ejercicio 16: Sumar dias a una fecha
+- Ejercicio 17: Restar dias a una fecha
+- Ejercicio 18: Días entre dos fechas
+- Ejercicio 19: Dia de la semana (nombre)
