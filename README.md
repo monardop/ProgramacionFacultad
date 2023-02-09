@@ -19,6 +19,11 @@ En este repositorio se encuentra las práctica de la materia programación de la
 - Ejercicio 11: Dado un número natural N, calcular la suma de sus precesores.
 - Ejercicio 12: Ingreso un número y muestra los pares anteriores a él.
 - Ejercicio 13: Ingreso un número, determina si es primo.
+- Ejercicio 20: Multiplicación rusa
+
+> Un termino se divide por dos, el otro se multiplica. Donde coincida par/impar se suma.
+
+- Ejercicio 21: obtener la parte entera de un número real
 
 ### Fechas
 
@@ -28,3 +33,6 @@ En este repositorio se encuentra las práctica de la materia programación de la
 - Ejercicio 17: Restar dias a una fecha
 - Ejercicio 18: Días entre dos fechas
 - Ejercicio 19: Dia de la semana (nombre)
+
+### Ejercicios con vectores
+
