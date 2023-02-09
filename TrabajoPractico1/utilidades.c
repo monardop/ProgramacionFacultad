@@ -32,3 +32,14 @@ double fact(double n)
     }
     return fact;
 }
+
+int validarDato(int a, int b)
+{
+    int x;
+    do
+    {
+        printf("Insertar un valor de %d a %d", a, b);
+        scanf("%d", &x);
+    } while (x < a || x > b);
+    
+}
