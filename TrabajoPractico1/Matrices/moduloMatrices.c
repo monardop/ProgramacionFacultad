@@ -68,3 +68,15 @@ void esSimetrica(const int*p, int dimension)
     }
     printf("Es simetrica.\n");
 }
+
+void trasponerMatriz(const int*p , int dimension)
+{
+    for (size_t i = 0; i < dimension; i++)
+    {
+        for (size_t j = 0; j < dimension; j++)
+        {
+            printf("%d\t", *(p + j*dimension + i));
+        }
+        printf("\n");
+    }
+}
