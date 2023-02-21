@@ -2,11 +2,11 @@
 
 #define MODULOMATRICES_H
 
-void sumatoriaTriangularSuperior();
-void sumatoriaTriangularInferior();
-void trazaPrincipalSecundaria();
-void esSimetrica();
-void trasponerMatriz();
+void sumatoriaTriangularSuperior(const int*, int, int);
+void sumatoriaTriangularInferior(const int*, int, int);
+void trazaPrincipalSecundaria(const int*, int, int);
+void esSimetrica(const int*, int, int);
+void trasponerMatriz(const int*, int, int);
 
 #include "moduloMatrices.c"
 #endif
