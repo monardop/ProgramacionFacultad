@@ -52,3 +52,19 @@ void trazaPrincipalSecundaria(const int *p, int dimension)
     }
     printf("Diagonal secundaria: %d", diagonalSecundaria);
 }
+
+void esSimetrica(const int*p, int dimension)
+{
+    for(size_t i = 0; i < dimension; i++)
+    {
+        for (size_t j = 0; j < dimension; j++)
+        {
+            if (*(p + i * dimension + j) != *(p + j * dimension + i))
+            {
+                printf("No es simetrica.\n");
+                return
+            }
+        }
+    }
+    printf("Es simetrica.\n");
+}
